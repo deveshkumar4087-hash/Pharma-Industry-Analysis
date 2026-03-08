@@ -17,7 +17,7 @@ Forecasting pharmaceutical sales trends using analytics techniques.
 Comprehensive report combining all project insights.
 
 ## Tools Used
-Excel
+Excel POWER BI MS WORD 
 Business Analytics
 Strategic Analysis
 AI Forecasting
