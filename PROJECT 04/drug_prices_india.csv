@@ -1,0 +1,300 @@
+Drug_Name,Dosage_Form,Strength,Therapeutic_Category,Manufacturer,Ceiling_Price_INR,Source,Effective_Date
+5-Aminosalicylic Acid,Tablet,Tablet 400 mg,Gastrointestinal,Torrent Pharma,8.06,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+5-Fluorouracil,Injection,Injection 250 mg/5 ml,Anti-Cancer,Hetero Drugs,2.08,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+6-Mercaptopurine,Tablet,Tablet 50mg,Anti-Cancer,Dr. Reddy's,5.35,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Abacavir,Tablet,Tablet 300 mg,Anti-HIV,Strides Pharma,49.44,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Abacavir + Lamivudine,Tablet,Tablet 600mg + 300mg,Anti-HIV,Strides Pharma,73.58,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Acetazolamide,Tablet,Tablet 250mg,Ophthalmology,Cipla,4.13,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Acetazolamide,Capsule,Capsule 250mg,Ophthalmology,Allergan India,5.14,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Acetylsalicylic Acid (Aspirin),Tablet,Tablet 75 mg,Cardiovascular,Lupin,0.36,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Acetylsalicylic Acid (Aspirin),Tablet,Tablet 150 mg,Cardiovascular,Lupin,0.72,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Acetylsalicylic Acid (Aspirin),Tablet,Tablet 325 mg,Analgesics & Antipyretics,Pfizer India,0.68,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Actinomycin D,Injection,Injection 0.5mg/vial,Anti-Cancer,Natco Pharma,336.79,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Acyclovir,Tablet,Tablet 400mg,Anti-Infective,Alkem,13.9,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Acyclovir,Tablet,Tablet 200mg,Anti-Infective,Abbott India,7.74,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Acyclovir,Injection,Injection 250 mg,Anti-Infective,Aurobindo Pharma,433.82,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Acyclovir,Injection,Injection 500 mg,Anti-Infective,Alembic,537.65,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Acyclovir,Tablet,Tablet 800mg,Anti-Infective,Aurobindo Pharma,38.32,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Acyclovir,Ointment,Ointment 3%,Anti-Infective,Alembic,11.87,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Adenosine,Injection,Injection 3mg/mL,Cardiovascular,Torrent Pharma,94.48,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Adrenaline,Injection,Injection 1mg/mL,Emergency Medicine,Pfizer India,12.44,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Albendazole,Oral Liquid,Oral liquid 200mg/5mL,Antiparasitic,Lupin,1.82,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Albendazole,Tablet,Tablet 400mg,Antiparasitic,Mankind Pharma,7.16,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Albendazole,Tablet,Chewable Tablet 400mg,Antiparasitic,Alkem,8.27,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Allopurinol,Tablet,Tablet 300mg,Analgesics & Antipyretics,Abbott India,5.73,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Allopurinol,Tablet,Tablet 100mg,Analgesics & Antipyretics,Alkem,1.92,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Alprostadil,Injection,Injection 0.5mg/mL,Cardiovascular,Sun Pharma,6213.02,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Amikacin,Injection,Injection 250mg/mL,Anti-Infective,Alkem,55.11,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Amiodarone,Tablet,Tablet 200mg,Cardiovascular,Lupin,11.71,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Amiodarone,Tablet,Tablet 100mg,Cardiovascular,Cipla,6.25,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Amiodarone,Injection,Injection 50mg/mL,Cardiovascular,Zydus Cadila,21.5,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Amitriptyline,Tablet,Tablet 50mg,Psychiatric,Alkem,6.09,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Amitriptyline,Tablet,Tablet 75mg,Psychiatric,Intas Pharma,5.54,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Amitriptyline,Tablet,Tablet 25mg,Psychiatric,Alkem,2.53,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Amitriptyline,Tablet,Tablet 10mg,Psychiatric,Alkem,2.43,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Amlodipine,Tablet,Tablet 2.5mg,Cardiovascular,Sun Pharma,1.82,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Amlodipine,Tablet,Tablet 5mg,Cardiovascular,Lupin,2.54,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Amlodipine,Tablet,Tablet 10mg,Cardiovascular,Torrent Pharma,5.54,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Amoxicillin,Capsule,Capsule 250mg,Anti-Infective,Alkem,2.48,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Amoxicillin,Capsule,Capsule 500mg,Anti-Infective,Abbott India,7.49,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Amoxicillin,Oral Liquid,Oral Liquid 250mg/5mL,Anti-Infective,Cipla,1.59,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Amoxicillin,Injection,Injection 250mg,Anti-Infective,Aurobindo Pharma,25.22,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Amoxicillin,Injection,Injection 500mg,Anti-Infective,Alembic,55.6,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Amoxicillin + Clavulanic Acid,Injection,Injection 1g + 200mg,Anti-Infective,Cipla,144.12,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Amoxicillin + Clavulanic Acid,Injection,Injection 500mg + 100mg,Anti-Infective,Alembic,103.11,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Amoxicillin + Clavulanic Acid,Tablet,Tablet 500mg + 125mg,Anti-Infective,Aurobindo Pharma,18.62,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Amphotericin B,Injection,Injection 50mg/vial,Anti-Fungal,Sun Pharma,231.36,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Amphotericin B Lipid,Injection,Injection 50mg/vial,Anti-Fungal,Cipla,1920.6,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Amphotericin B Liposomal,Injection,Injection 50mg/vial,Anti-Fungal,Sun Pharma,6763.93,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Ampicillin,Injection,Injection 500mg,Anti-Infective,Abbott India,14.5,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Ampicillin,Injection,Injection 1gm,Anti-Infective,Aurobindo Pharma,25.35,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Anti-Rabies Immunoglobulin,Injection,Injection 150 IU/ml,Vaccines & Immunologicals,Panacea Biotec,3161.67,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Anti-Rabies Immunoglobulin,Injection,Injection 300 IU/ml,Vaccines & Immunologicals,Panacea Biotec,111.47,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Anti-Tetanus Immunoglobulin,Injection,Injection 250IU,Vaccines & Immunologicals,Panacea Biotec,1266.45,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Anti-Tetanus Immunoglobulin,Injection,Injection 500IU,Vaccines & Immunologicals,Panacea Biotec,1908.39,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Arsenic Trioxide,Injection,Injection 1mg/ml,Anti-Cancer,Hetero Drugs,31.07,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Artemether + Lumefantrine,Tablet,Tablet 40mg + 240mg,Anti-Malarial,Mankind Pharma,18.35,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Artesunate,Injection,Injection 60mg,Anti-Malarial,Ipca Laboratories,248.99,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Artesunate,Injection,Injection 120mg,Anti-Malarial,Sun Pharma,462.35,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Ascorbic Acid (Vitamin C),Tablet,Tablet 100mg,Vitamins & Minerals,Alkem,0.24,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Ascorbic Acid (Vitamin C),Tablet,Tablet 500mg,Vitamins & Minerals,Pfizer India,1.57,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Atazanavir + Ritonavir,Tablet,Tablet 300mg + 100mg,Anti-HIV,Hetero Drugs,101.57,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Atorvastatin,Tablet,Tablet 40mg,Cardiovascular,Cipla,19.64,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Atorvastatin,Tablet,Tablet 20mg,Cardiovascular,Zydus Cadila,12.78,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Atorvastatin,Tablet,Tablet 10mg,Cardiovascular,Torrent Pharma,5.06,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Atorvastatin,Tablet,Tablet 80mg,Cardiovascular,Cipla,41.29,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Atracurium,Injection,Injection 10mg/ml,Anaesthesia,Sun Pharma,17.28,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Atropine,Drops,Drops 1%,Ophthalmology,Entod Pharma,4.01,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Atropine,Injection,Injection 0.6mg/mL,Anaesthesia,Sun Pharma,6.98,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Azathioprine,Tablet,Tablet 50mg,Immunosuppressants,Cipla,11.46,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Azathioprine,Tablet,Tablet 25mg,Immunosuppressants,Roche India,7.37,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Azithromycin,Injection,Injection 500mg,Anti-Infective,Alembic,208.28,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Azithromycin,Tablet,Tablet 250mg,Anti-Infective,Cipla,11.87,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Azithromycin,Tablet,Tablet 500mg,Anti-Infective,Abbott India,23.98,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Azithromycin,Tablet,Tablet 1000mg,Anti-Infective,Abbott India,58.79,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Baclofen,Tablet,Tablet 20mg,Neurological,Torrent Pharma,16.56,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Baclofen,Tablet,Tablet 10mg,Neurological,Alkem,12.11,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+BCG Vaccine,Injection,As licensed,Vaccines & Immunologicals,Bharat Biotech,8.15,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Bendamustine,Injection,Injection 100mg/vial,Anti-Cancer,Sun Pharma,5032.89,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Benzathine Benzylpenicillin,Injection,Injection 12 lac units,Anti-Infective,Alembic,20.15,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Betamethasone,Injection,Injection 4mg/mL,Hormones & Steroids,Alembic,4.82,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Betamethasone Valerate,Cream,Cream 0.05%,Dermatology,Mankind Pharma,0.68,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Betamethasone Valerate,Cream,Cream 0.1%,Dermatology,Lupin,1.06,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Bicalutamide,Tablet,Tablet 50mg,Anti-Cancer,Sun Pharma,44.05,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Bisacodyl,Tablet,Tablet 5mg,Gastrointestinal,Mankind Pharma,1.19,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Bleomycin,Injection,Injection 15units/vial,Anti-Cancer,Hetero Drugs,689.2,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Bortezomib,Injection,Injection 2mg/vial,Anti-Cancer,Sun Pharma,5352.05,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Budesonide,Inhaler,Inhalation 100mcg,Respiratory,Cipla,1.43,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Budesonide,Inhaler,Inhalation 200mcg,Respiratory,Cipla,2.07,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Budesonide + Formoterol,Inhaler,Inhalation 100mcg + 6mcg,Respiratory,Cipla,2.16,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Budesonide + Formoterol,Inhaler,Inhalation 200mcg + 6mcg,Respiratory,AstraZeneca India,3.01,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Bupivacaine,Injection,Injection 0.5%,Anaesthesia,Pfizer India,4.5,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Buprenorphine,Tablet,Tablet (sublingual) 0.4mg,Psychiatric,Intas Pharma,9.59,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Caffeine,Oral Liquid,Oral Liquid 20mg/mL,Neurological,Sun Pharma,249.96,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Caffeine,Injection,Injection 20mg/mL,Neurological,Cipla,254.86,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Calcium Folinate,Tablet,Tablet 15mg,Anti-Cancer,Dr. Reddy's,48.37,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Capecitabine,Tablet,Tablet 500mg,Anti-Cancer,Sun Pharma,114.69,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Carbamazepine,Tablet,Tablet 200mg,Neurological,Cipla,1.6,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Carbamazepine,Tablet,Tablet 400mg,Neurological,Alkem,3.61,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Carboplatin,Injection,Injection 10mg/mL,Anti-Cancer,Cipla,60.1,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Carboxymethyl Cellulose,Drops,Drops 0.5%,Ophthalmology,Cipla,12.51,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Cefadroxil,Tablet,Tablet 500mg,Anti-Infective,Cipla,6.83,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Cefixime,Tablet,Tablet 400mg,Anti-Infective,Alembic,22.48,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Cefixime,Tablet,Tablet 200mg,Anti-Infective,Cipla,9.95,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Cefotaxime,Injection,Injection 1000mg,Anti-Infective,Alembic,40.66,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Ceftazidime,Injection,Injection 1000mg,Anti-Infective,Aurobindo Pharma,230.97,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Ceftriaxone,Injection,Injection 500mg,Anti-Infective,Cipla,51.16,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Ceftriaxone,Injection,Injection 1000mg,Anti-Infective,Abbott India,63.47,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Ceftriaxone,Injection,Injection 2000mg,Anti-Infective,Alkem,140.52,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Cefuroxime,Tablet,Tablet 500mg,Anti-Infective,Alembic,52.33,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Cefuroxime,Injection,Injection 1500mg,Anti-Infective,Alkem,344.66,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Cetirizine,Tablet,Tablet 10mg,Antiallergic,Abbott India,1.91,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Chlorambucil,Tablet,Tablet 2mg,Anti-Cancer,Sun Pharma,31.7,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Chlorambucil,Tablet,Tablet 5mg,Anti-Cancer,Dr. Reddy's,78.55,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Chloroquine,Tablet,Tablet 150mg,Anti-Malarial,Alembic,1.35,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Cholecalciferol (Vit D3),Tablet,Tablet 1000 IU,Vitamins & Minerals,Abbott India,4.39,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Cholecalciferol (Vit D3),Tablet,Tablet 60000 IU,Vitamins & Minerals,Mankind Pharma,22.89,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Cholecalciferol (Vit D3),Capsule,Capsule 60000 IU,Vitamins & Minerals,GlaxoSmithKline India,31.32,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Ciprofloxacin,Tablet,Tablet 250mg,Anti-Infective,Aurobindo Pharma,2.24,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Ciprofloxacin,Tablet,Tablet 500mg,Anti-Infective,Alkem,4.32,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Ciprofloxacin,Injection,Injection 200mg/100mL,Anti-Infective,Cipla,0.2,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Cisplatin,Injection,Injection 1mg/mL,Anti-Cancer,Cipla,7.21,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Clarithromycin,Tablet,Tablet 250mg,Anti-Infective,Aurobindo Pharma,24.48,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Clarithromycin,Tablet,Tablet 500mg,Anti-Infective,Alembic,40.53,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Clindamycin,Capsule,Capsule 150mg,Anti-Infective,Abbott India,16.64,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Clindamycin,Injection,Injection 150mg/mL,Anti-Infective,Alkem,61.65,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Clobazam,Tablet,Tablet 5mg,Neurological,Sun Pharma,5.83,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Clobazam,Tablet,Tablet 10mg,Neurological,Lupin,10.01,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Clomiphene Citrate,Capsule,Capsule 50mg,Hormones & Steroids,Lupin,27.85,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Clomiphene Citrate,Tablet,Tablet 50mg,Hormones & Steroids,Alembic,8.99,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Clonazepam,Tablet,Tablet 0.5mg,Neurological,Alkem,3.51,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Clonazepam,Tablet,Tablet 1mg,Neurological,Alkem,4.85,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Clopidogrel,Tablet,Tablet 75mg,Cardiovascular,Lupin,6.78,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Clopidogrel,Tablet,Tablet 150mg,Cardiovascular,Torrent Pharma,20.84,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Clotrimazole,Cream,Cream 1%,Anti-Fungal,Zydus Cadila,3.05,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Cloxacillin,Capsule,Capsule 500mg,Anti-Infective,Abbott India,2.42,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Codeine,Tablet,Tablet 15mg,Analgesics & Antipyretics,Cipla,3.2,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Dapsone,Tablet,Tablet 100mg,Anti-TB,Alkem,1.55,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Dapsone,Tablet,Tablet 50mg,Anti-TB,FDC Limited,0.89,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Dexamethasone,Tablet,Tablet 0.5mg,Hormones & Steroids,Abbott India,1.12,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Dexamethasone,Injection,Injection 4mg/mL,Hormones & Steroids,Abbott India,3.75,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Diazepam,Tablet,Tablet 5mg,Psychiatric,Lupin,1.34,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Diazepam,Injection,Injection 5mg/mL,Psychiatric,Sun Pharma,4.55,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Digoxin,Tablet,Tablet 0.25mg,Cardiovascular,Torrent Pharma,1.18,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Digoxin,Injection,Injection 0.25mg/mL,Cardiovascular,Zydus Cadila,12.89,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Diltiazem,Tablet,Tablet 30mg,Cardiovascular,Zydus Cadila,2.06,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Diltiazem,Tablet,Tablet 60mg,Cardiovascular,Zydus Cadila,3.88,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Docetaxel,Injection,Injection 20mg/0.5mL,Anti-Cancer,Natco Pharma,856.33,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Doxorubicin,Injection,Injection 10mg/5mL,Anti-Cancer,Natco Pharma,130.45,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Doxorubicin,Injection,Injection 50mg/25mL,Anti-Cancer,Dr. Reddy's,612.2,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Doxycycline,Capsule,Capsule 100mg,Anti-Infective,Aurobindo Pharma,3.82,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Efavirenz,Tablet,Tablet 600mg,Anti-HIV,Aurobindo Pharma,21.45,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Efavirenz,Tablet,Tablet 200mg,Anti-HIV,Cipla,9.32,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Enalapril,Tablet,Tablet 5mg,Cardiovascular,Sun Pharma,2.87,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Enalapril,Tablet,Tablet 10mg,Cardiovascular,Sun Pharma,4.53,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Enalapril,Tablet,Tablet 2.5mg,Cardiovascular,Sun Pharma,1.78,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Ergocalciferol,Capsule,Capsule 1.25mg,Vitamins & Minerals,Abbott India,5.44,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Erythromycin,Tablet,Tablet 250mg,Anti-Infective,Cipla,5.22,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Erythromycin,Tablet,Tablet 500mg,Anti-Infective,Alembic,8.77,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Ethambutol,Tablet,Tablet 400mg,Anti-TB,Macleods Pharma,2.77,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Ethambutol,Tablet,Tablet 800mg,Anti-TB,Lupin,5.41,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Ethinylestradiol + Levonorgestrel,Tablet,Tablet 0.03mg + 0.15mg,Hormones & Steroids,Cipla,0.88,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Etoposide,Injection,Injection 20mg/mL,Anti-Cancer,Dr. Reddy's,25.67,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Ferrous Salt,Tablet,Tablet 60mg (elem iron),Vitamins & Minerals,Mankind Pharma,0.44,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Ferrous Salt + Folic Acid,Tablet,Tablet 60mg + 0.5mg,Vitamins & Minerals,GlaxoSmithKline India,0.58,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Fluconazole,Capsule,Capsule 150mg,Anti-Fungal,Cipla,9.78,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Fluconazole,Tablet,Tablet 200mg,Anti-Fungal,Lupin,14.32,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Fluconazole,Injection,Injection 2mg/mL,Anti-Fungal,Sun Pharma,1.15,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Folic Acid,Tablet,Tablet 1mg,Vitamins & Minerals,Pfizer India,0.28,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Folic Acid,Tablet,Tablet 5mg,Vitamins & Minerals,Abbott India,0.52,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Furosemide,Tablet,Tablet 40mg,Cardiovascular,Sun Pharma,0.95,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Furosemide,Injection,Injection 10mg/mL,Cardiovascular,Zydus Cadila,3.42,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Gemcitabine,Injection,Injection 200mg/vial,Anti-Cancer,Sun Pharma,298.44,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Gemcitabine,Injection,Injection 1000mg/vial,Anti-Cancer,Sun Pharma,988.55,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Gentamicin,Injection,Injection 40mg/mL,Anti-Infective,Aurobindo Pharma,8.66,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Glibenclamide,Tablet,Tablet 5mg,Anti-Diabetic,Lupin,0.72,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Glipizide,Tablet,Tablet 5mg,Anti-Diabetic,Lupin,1.35,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Haloperidol,Tablet,Tablet 5mg,Psychiatric,Torrent Pharma,1.45,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Haloperidol,Injection,Injection 5mg/mL,Psychiatric,Intas Pharma,14.22,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Human Insulin,Injection,Injection 40IU/mL,Anti-Diabetic,Sun Pharma,40.02,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Human Insulin (soluble),Injection,Injection 100IU/mL,Anti-Diabetic,Zydus Cadila,80.55,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Hydrochlorothiazide,Tablet,Tablet 25mg,Cardiovascular,Sun Pharma,0.55,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Hydroxycarbamide,Capsule,Capsule 500mg,Anti-Cancer,Sun Pharma,12.66,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Hydroxychloroquine,Tablet,Tablet 200mg,Anti-Malarial,Mankind Pharma,4.55,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Ibuprofen,Tablet,Tablet 200mg,Analgesics & Antipyretics,Alkem,1.88,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Ibuprofen,Tablet,Tablet 400mg,Analgesics & Antipyretics,Mankind Pharma,2.44,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Ibuprofen,Tablet,Tablet 600mg,Analgesics & Antipyretics,Mankind Pharma,4.12,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Imatinib,Tablet,Tablet 100mg,Anti-Cancer,Natco Pharma,56.78,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Imatinib,Tablet,Tablet 400mg,Anti-Cancer,Hetero Drugs,195.33,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Insulin Glargine,Injection,Injection 100IU/mL,Anti-Diabetic,Sun Pharma,245.6,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Isoniazid,Tablet,Tablet 100mg,Anti-TB,Lupin,0.62,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Isoniazid,Tablet,Tablet 300mg,Anti-TB,Alkem,1.77,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Isoniazid + Ethambutol,Tablet,Tablet 75mg + 275mg,Anti-TB,Macleods,3.45,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Isoniazid + Rifampicin + Pyrazinamide,Tablet,Tablet 75mg + 150mg + 400mg,Anti-TB,Macleods Pharma,7.22,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Labetalol,Tablet,Tablet 100mg,Cardiovascular,Zydus Cadila,5.22,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Lamivudine,Tablet,Tablet 150mg,Anti-HIV,Hetero Drugs,6.33,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Lamivudine + Stavudine,Tablet,Tablet 150mg + 30mg,Anti-HIV,Aurobindo Pharma,7.89,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Lamivudine + Zidovudine,Tablet,Tablet 150mg + 300mg,Anti-HIV,Mylan,15.44,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Levofloxacin,Tablet,Tablet 250mg,Anti-Infective,Alkem,9.55,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Levofloxacin,Tablet,Tablet 500mg,Anti-Infective,Cipla,16.88,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Levofloxacin,Injection,Injection 5mg/mL,Anti-Infective,Abbott India,1.22,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Levothyroxine,Tablet,Tablet 25mcg,Hormones & Steroids,Alembic,0.55,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Levothyroxine,Tablet,Tablet 50mcg,Hormones & Steroids,Abbott India,0.88,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Levothyroxine,Tablet,Tablet 100mcg,Hormones & Steroids,Cipla,1.44,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Lisinopril,Tablet,Tablet 5mg,Cardiovascular,Sun Pharma,3.22,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Lisinopril,Tablet,Tablet 10mg,Cardiovascular,Sun Pharma,5.67,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Lithium Carbonate,Capsule,Capsule 300mg,Psychiatric,Alkem,2.88,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Lopinavir + Ritonavir,Tablet,Tablet 200mg + 50mg,Anti-HIV,Mylan,18.55,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Losartan,Tablet,Tablet 50mg,Cardiovascular,Torrent Pharma,6.77,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Losartan,Tablet,Tablet 25mg,Cardiovascular,Lupin,3.44,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Mannitol,Injection,Injection 20%,Emergency Medicine,B. Braun India,2.55,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Mebendazole,Tablet,Tablet 100mg,Antiparasitic,Lupin,1.22,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Mebendazole,Oral Liquid,Oral Liquid 100mg/5mL,Antiparasitic,Macleods Pharma,0.88,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Medroxyprogesterone,Injection,Injection 150mg/mL,Hormones & Steroids,Alembic,122.55,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Mercaptopurine,Tablet,Tablet 50mg,Anti-Cancer,Dr. Reddy's,5.35,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Metformin,Tablet,Tablet 500mg,Anti-Diabetic,Novo Nordisk,1.44,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Metformin,Tablet,Tablet 850mg,Anti-Diabetic,Eli Lilly India,2.33,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Methotrexate,Tablet,Tablet 2.5mg,Anti-Cancer,Dr. Reddy's,2.78,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Methotrexate,Injection,Injection 25mg/mL,Anti-Cancer,Natco Pharma,24.55,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Methyldopa,Tablet,Tablet 250mg,Cardiovascular,Zydus Cadila,3.44,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Metoclopramide,Tablet,Tablet 10mg,Gastrointestinal,Alkem,1.12,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Metoclopramide,Injection,Injection 5mg/mL,Gastrointestinal,Alkem,4.22,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Metronidazole,Tablet,Tablet 200mg,Anti-Infective,Aurobindo Pharma,0.78,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Metronidazole,Tablet,Tablet 400mg,Anti-Infective,Cipla,1.33,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Metronidazole,Injection,Injection 500mg/100mL,Anti-Infective,Alkem,0.45,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Midazolam,Injection,Injection 5mg/mL,Anaesthesia,Abbott India,16.88,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Misoprostol,Tablet,Tablet 200mcg,Gastrointestinal,Alkem,16.22,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Morphine,Tablet,Tablet 10mg,Analgesics & Antipyretics,Alkem,4.55,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Morphine,Injection,Injection 10mg/mL,Analgesics & Antipyretics,Mankind Pharma,14.88,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Nevirapine,Tablet,Tablet 200mg,Anti-HIV,Hetero Drugs,7.44,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Nicotinamide,Tablet,Tablet 50mg,Vitamins & Minerals,Abbott India,0.32,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Nifedipine,Tablet,Tablet 10mg,Cardiovascular,Zydus Cadila,1.56,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Nifedipine,Tablet,Tablet 30mg (SR),Cardiovascular,Cipla,5.88,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Nitrofurantoin,Tablet,Tablet 100mg,Anti-Infective,Cipla,5.33,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Omeprazole,Capsule,Capsule 20mg,Gastrointestinal,Torrent Pharma,2.78,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Omeprazole,Capsule,Capsule 40mg,Gastrointestinal,Torrent Pharma,5.44,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Omeprazole,Injection,Injection 40mg,Gastrointestinal,Alkem,32.55,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Ondansetron,Tablet,Tablet 4mg,Gastrointestinal,Abbott India,5.12,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Ondansetron,Tablet,Tablet 8mg,Gastrointestinal,Alkem,9.33,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Ondansetron,Injection,Injection 2mg/mL,Gastrointestinal,Torrent Pharma,9.22,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Oxaliplatin,Injection,Injection 5mg/mL,Anti-Cancer,Hetero Drugs,211.44,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Oxytetracycline,Ointment,Ointment 3%,Ophthalmology,Ajanta Pharma,4.22,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Paclitaxel,Injection,Injection 6mg/mL,Anti-Cancer,Dr. Reddy's,148.77,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Paracetamol,Tablet,Tablet 500mg,Analgesics & Antipyretics,Alkem,1.15,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Paracetamol,Tablet,Tablet 650mg,Analgesics & Antipyretics,Alkem,1.44,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Paracetamol,Injection,Injection 10mg/mL,Analgesics & Antipyretics,Cipla,1.22,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Paracetamol,Oral Liquid,Oral Liquid 250mg/5mL,Analgesics & Antipyretics,Cipla,0.88,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Penicillin G,Injection,Injection 5 lac units,Anti-Infective,Alkem,5.22,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Phenobarbitone,Tablet,Tablet 30mg,Neurological,Lupin,0.55,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Phenobarbitone,Tablet,Tablet 60mg,Neurological,Sun Pharma,0.88,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Phenytoin,Tablet,Tablet 100mg,Neurological,Lupin,1.22,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Phenytoin,Injection,Injection 50mg/mL,Neurological,Cipla,12.55,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Prednisolone,Tablet,Tablet 5mg,Hormones & Steroids,Sun Pharma,0.67,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Prednisolone,Tablet,Tablet 10mg,Hormones & Steroids,Alembic,1.22,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Prednisolone,Tablet,Tablet 20mg,Hormones & Steroids,Alembic,2.11,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Primaquine,Tablet,Tablet 2.5mg,Anti-Malarial,Mankind Pharma,0.44,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Propranolol,Tablet,Tablet 10mg,Cardiovascular,Sun Pharma,0.78,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Propranolol,Tablet,Tablet 40mg,Cardiovascular,Lupin,1.33,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Propranolol,Injection,Injection 1mg/mL,Cardiovascular,Sun Pharma,5.44,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Pyrazinamide,Tablet,Tablet 500mg,Anti-TB,Macleods Pharma,2.44,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Ranitidine,Tablet,Tablet 150mg,Gastrointestinal,Abbott India,1.55,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Ranitidine,Injection,Injection 25mg/mL,Gastrointestinal,Abbott India,5.33,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Rifampicin,Capsule,Capsule 150mg,Anti-TB,Macleods,3.22,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Rifampicin,Capsule,Capsule 300mg,Anti-TB,Alkem,5.88,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Rifampicin,Capsule,Capsule 450mg,Anti-TB,Macleods Pharma,8.44,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Rifampicin,Capsule,Capsule 600mg,Anti-TB,Lupin,10.22,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Salbutamol,Tablet,Tablet 2mg,Respiratory,AstraZeneca India,0.55,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Salbutamol,Tablet,Tablet 4mg,Respiratory,Cipla,0.88,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Salbutamol,Inhaler,Inhaler 100mcg,Respiratory,AstraZeneca India,1.22,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Salbutamol,Injection,Injection 0.5mg/mL,Respiratory,Cipla,6.55,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Simvastatin,Tablet,Tablet 10mg,Cardiovascular,Torrent Pharma,4.44,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Simvastatin,Tablet,Tablet 20mg,Cardiovascular,Zydus Cadila,7.88,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Simvastatin,Tablet,Tablet 40mg,Cardiovascular,Lupin,14.33,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Sodium Valproate,Tablet,Tablet 200mg,Neurological,Sun Pharma,2.22,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Sodium Valproate,Tablet,Tablet 500mg,Neurological,Sun Pharma,4.88,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Spironolactone,Tablet,Tablet 25mg,Cardiovascular,Zydus Cadila,3.22,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Streptomycin,Injection,Injection 750mg,Anti-TB,Alkem,22.55,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Streptomycin,Injection,Injection 1000mg,Anti-TB,Alkem,28.88,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Sucralfate,Tablet,Tablet 1g,Gastrointestinal,Mankind Pharma,4.55,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Tamoxifen,Tablet,Tablet 10mg,Anti-Cancer,Dr. Reddy's,4.22,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Tamoxifen,Tablet,Tablet 20mg,Anti-Cancer,Dr. Reddy's,7.88,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Tenofovir,Tablet,Tablet 300mg,Anti-HIV,Mylan,11.44,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Tetracycline,Capsule,Capsule 250mg,Anti-Infective,Aurobindo Pharma,2.44,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Thiopental,Injection,Injection 500mg,Anaesthesia,Neon Laboratories,42.55,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Ticlopidine,Tablet,Tablet 250mg,Cardiovascular,Sun Pharma,8.33,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Trastuzumab,Injection,Injection 440mg/vial,Anti-Cancer,Natco Pharma,54750,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Trastuzumab,Injection,Injection 150mg/vial,Anti-Cancer,Sun Pharma,18625,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Triamcinolone,Injection,Injection 40mg/mL,Hormones & Steroids,Lupin,45.22,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Trimethoprim + Sulfamethoxazole,Tablet,Tablet 80mg + 400mg,Anti-Infective,Alembic,1.55,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Valproic Acid,Capsule,Capsule 250mg,Neurological,Alkem,3.44,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Vancomycin,Injection,Injection 500mg,Anti-Infective,Alkem,88.55,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Vancomycin,Injection,Injection 1000mg,Anti-Infective,Alembic,165.22,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Verapamil,Tablet,Tablet 40mg,Cardiovascular,Lupin,2.88,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Verapamil,Injection,Injection 2.5mg/mL,Cardiovascular,Sun Pharma,18.55,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Vincristine,Injection,Injection 1mg/mL,Anti-Cancer,Sun Pharma,175.44,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Warfarin,Tablet,Tablet 1mg,Cardiovascular,Zydus Cadila,1.88,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Warfarin,Tablet,Tablet 5mg,Cardiovascular,Zydus Cadila,5.22,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Zidovudine,Tablet,Tablet 300mg,Anti-HIV,Strides Pharma,14.55,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Zidovudine,Injection,Injection 10mg/mL,Anti-HIV,Strides Pharma,22.88,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Zinc Sulfate,Tablet,Tablet 20mg,Vitamins & Minerals,Abbott India,1.02,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
+Zoledronic Acid,Injection,Injection 4mg/5mL,Anti-Cancer,Natco Pharma,1522.44,NPPA DPCO 2025 - S.O.1489(E),1/4/2025
